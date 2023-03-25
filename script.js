@@ -243,4 +243,3 @@ backButton.addEventListener('click', () => {
 });
 
 updateTotalPulls();
-
